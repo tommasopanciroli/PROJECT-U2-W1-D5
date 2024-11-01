@@ -2,9 +2,14 @@
 
 /* HEADER */
 
+header {
+  border-top: solid 0.5px black;
+  border-left: solid 0.5px black;
+  border-right: solid 0.5px black;
+}
+
 nav {
   width: 100%;
-  border: solid 0.5px black;
   background-color: #ffc017;
   height: 4rem;
   display: flex;
@@ -40,7 +45,7 @@ nav button {
 
 #main-intro {
   background-color: #ffc017;
-  border: 1px black solid;
+  border: 0.5px black solid;
   display: flex;
   flex-direction: row;
   justify-content: space-between;
