@@ -67,6 +67,7 @@ nav button {
 .wrap {
   margin-top: 1rem;
   width: 318px;
+  font-weight: 300;
 }
 
 .intro-button {
