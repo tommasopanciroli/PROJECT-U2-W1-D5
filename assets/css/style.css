@@ -179,6 +179,7 @@ nav button {
   margin-left: 8rem;
   margin-top: 4rem;
   margin-bottom: 2rem;
+  width: 400px;
   display: flex;
   flex-direction: column;
 }
@@ -230,3 +231,22 @@ nav button {
   margin-left: auto;
 }
 
+#column-articles {
+    display: flex;
+    flex-direction: row;
+}
+
+#articlesImages {
+    display: flex;
+    flex-direction: column;
+   margin-top: 5rem;
+}
+
+.immagini {
+    width: 150px;
+    margin-block: 1rem;
+}
+
+.imagesWidth {
+    width: auto;
+}
