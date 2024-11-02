@@ -250,3 +250,12 @@ nav button {
 .imagesWidth {
     width: auto;
 }
+
+/* FOOTER */
+
+#footerPBorder {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    width: 300px;
+}
