@@ -187,7 +187,7 @@ nav button {
   background-color: #e6e7e7;
   border-radius: 20px;
   padding: 0.2rem;
-  width: 35px;
+  width: auto;
   color: gray;
   font-size: 0.7rem;
   height: 1rem;
@@ -201,6 +201,7 @@ nav button {
 .articleSecondSec {
   line-height: 1.5rem;
   width: 350px;
+  margin-block: 1rem;
 }
 
 .smallP {
@@ -228,3 +229,4 @@ nav button {
   width: 1.3rem;
   margin-left: auto;
 }
+
