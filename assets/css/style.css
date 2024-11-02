@@ -216,6 +216,8 @@ nav button {
 .sbiaditoDue {
   display: flex;
   align-items: center;
+  color: #e6e7e7;
+  font-size: small;
 }
 
 .star {
